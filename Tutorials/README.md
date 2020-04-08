@@ -1,0 +1,1 @@
+These tutorials are Jupyter notebook versions of the tutorials hosted [here](https://effective-quadratures.github.io/_documentation/tutorial_1.html). The [full source](https://github.com/Effective-Quadratures/Effective-Quadratures/tree/master/source/_documentation/codes) is also avaiable. 
