@@ -35,7 +35,9 @@ Then temporarily copied to the VM for faster read/write speeds:
 For loading data files required in notebooks in this Repo, we instead download them from github with `wget` to avoid having to maintain an additional Google drive repository. For example:
 
 ```python
-!wget https://github.com/Effective-Quadratures/EQ-live/blob/master/Blog_posts/points_to_run.npy?raw=true
+if IN_COLAB: 
+  !wget https://raw.githubusercontent.com/Effective-Quadratures/EQ-live/master/Blog_posts/lossarray_sst.npy -O lossarray_sst.npy
+Yp = np.load('lossarray_sst.npy').reshape(-1, 1)
 ```
 
 # Azure Notebooks
