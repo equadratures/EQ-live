@@ -10,7 +10,7 @@ The choice of Google Colab or Azure notebooks us yours. Previewing and sharing n
 
 * Second Method - Github jupyter notebooks can directly be accessed on Google Colaboratory by using CPU/GPU/TPU runtimes by replacing https://github.com in the URL by https://colab.research.google.com/github/.
 
-* Third Method A much easier way is to use “Open in Colab” Extension for Chrome.
+* Third Method - A much easier way is to use “Open in Colab” Extension for Chrome.
 
 Edited from https://www.google-colab.com/google-colab-tips-and-tricks/.
 
