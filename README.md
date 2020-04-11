@@ -8,7 +8,8 @@ The choice of Google Colab or Azure notebooks us yours. Previewing and sharing n
 
 * First Method - To open notebooks from Github. Go to https://colab.research.google.com switch to Github tab and enter an organization or URL.
 
-* Second Method - Github jupyter notebooks can directly be accessed on Google Colaboratory by using CPU/GPU/TPU runtimes by replacing https://github.com in the URL by https://colab.research.google.com/github/.
+* Second Method - Github jupyter notebooks can directly be accessed on Google Colaboratory by using CPU/GPU/TPU runtimes by replacing https://github.com in the URL by https://colab.research.google.com/github/ e.g.
+https://colab.research.google.com/github/Effective-Quadratures/EQ-live/blob/master/Blog_posts/computing_moments.ipynb
 
 * Third Method - A much easier way is to use “Open in Colab” Extension for Chrome.
 
