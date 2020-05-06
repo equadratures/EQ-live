@@ -1,7 +1,7 @@
 # EQ-live
 Jupyter notebooks for demonstration, exploration and prototyping of Effective Quadratures. These can be run on the cloud with [Google Colaboratory](https://colab.research.google.com/) or [Azure Notebooks](http://notebooks.azure.com).
 
-The choice of Google Colab or Azure notebooks us yours. Previewing and sharing notebooks is arguably easier with Colab, but reading/writing persistant data files is arguably easier with Azure. It may come down to whether you have a Microsoft or Google account!
+The choice of Google Colab or Azure notebooks is yours. Arguably, previewing and sharing notebooks is easier with Colab, but reading/writing persistant data files is easier with Azure. It may come down to whether you have a Microsoft or Google account!
 
 # Google Colaboratory
 ## Opening notebooks
